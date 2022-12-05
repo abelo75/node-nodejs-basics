@@ -15,4 +15,4 @@ const copy = async () => {
   }
 };
 
-await copy();
+copy();
